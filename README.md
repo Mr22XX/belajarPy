@@ -1,2 +1,2 @@
 # belajarPy
-this is my first time learned python and it's fun tho
+this is my first time learn python and it's fun enough
